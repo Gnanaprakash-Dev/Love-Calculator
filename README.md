@@ -18,8 +18,10 @@ Enter the names of the two people you want to calculate the love percentage for 
 
 ## Screenshots
 
-![Love Calculator Screenshot 1](https://raw.githubusercontent.com/Gnanaprakash-Dev/Love-Calculator/main/src/image/Lovebg1.jpg)
-![Love Calculator Screenshot 2](https://raw.githubusercontent.com/Gnanaprakash-Dev/Love-Calculator/main/src/image/screen2.png)
+<div style="display: flex;">
+  <img alt="Love Calculator Screenshot 1" src="https://raw.githubusercontent.com/Gnanaprakash-Dev/Love-Calculator/main/src/image/Lovebg1.jpg" width="50%">
+  <img alt="Love Calculator Screenshot 2" src="https://raw.githubusercontent.com/Gnanaprakash-Dev/Love-Calculator/main/src/image/screen2.png" width="50%">
+</div>
 
 ## Credits
 
